@@ -3,7 +3,7 @@ const colors = require("colors")
 const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({ 
-  token: "ODI5ODgxMjU0ODU3NTM5NTg1.YG-lJQ.XVmLvNsveiaSdX8eCH7v9AWezEU", 
+  token: "TUTOKEN", 
   prefix: "TUPREFIX", //escribe el prefijo de tu bot ejemplo prefix: "!",
   mobile: false,
   fetchInvites: false,
