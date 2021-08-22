@@ -1,7 +1,5 @@
 const colors = require("colors")
-
-const dbd = require("dbd.js")
-
+const dbd = require("aoi.js")
 const bot = new dbd.Bot({ 
   token: "TUTOKEN", 
   prefix: "TUPREFIX", //escribe el prefijo de tu bot ejemplo prefix: "!",
